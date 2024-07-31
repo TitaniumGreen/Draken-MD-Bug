@@ -7,10 +7,10 @@ const chalk = require('chalk')
 global.ownernomer = "2348167165844"
 global.ownername = "Toxxic Md"
 global.ytname = "Toxxic Md"
-global.socialm = "GitHub: Toxic1239"
+global.socialm = "GitHub: TitaniumGreen"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '33757054414'  //creator number
+global.ownernumber = '2348167165844'  //creator number
 global.ownername = '𝕄¥TH!C_GℍØUL_14' //owner name
 global.botname = 'Draken Md' //name of the bot
 
@@ -19,7 +19,7 @@ global.packname = 'Sticker By'
 global.author = 'Toxxic-Md\n\nContact: 33757054414'
 
 //console view/theme
-global.themeemoji = '💀'
+global.themeemoji = '🪀'
 global.wm = "Toxxic Tech."
 
 //theme link
